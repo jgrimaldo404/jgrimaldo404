@@ -37,13 +37,13 @@ I believe open source allows many great minds to take on and collaborate on ambi
 Title|Artist|Listen
 :----|:-----|:-----:
 Mind Mix Vol 1|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Soul Mix Vol 2|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Reality Mix Vol 3|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Time Mix Vol 4|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Space Mix Vol 5|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Power Mix Vol 6|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Infinity Mix Vol 7|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
-Flex City |Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
+Soul Mix Vol 2|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title2]
+Reality Mix Vol 3|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title3]
+Time Mix Vol 4|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title4]
+Space Mix Vol 5|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title5]
+Power Mix Vol 6|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title6]
+Infinity Mix Vol 7|Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title7]
+Flex City |Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title8]
 
 
 <!-- Music Badges -->
@@ -52,13 +52,13 @@ Flex City |Various Artists|[![Listen on Spotify][spotify-badge]][spotify-title]
 
 <!-- Spotify Links -->
 [spotify-title]: https://open.spotify.com/playlist/60hpZsjQceGS2p1Zq7v5uF?si=4a53c74d91f94a1b
-[spotify-title]: https://open.spotify.com/playlist/45ezE0U3ocTdfY4SdVkM4A?si=6a0049160ab74ad3
-[spotify-title]: https://open.spotify.com/playlist/60L27xyFAfWwxJgq9B3ONR?si=a6d19b7828d44c45
-[spotify-title]: https://open.spotify.com/playlist/3SKmxvV99uBvrMoU2J9VBu?si=59a9514bdd2541e3
-[spotify-title]: https://open.spotify.com/playlist/0FchMhDpAMIMzj0Xi0xCzA?si=48cbb12b63d74828
-[spotify-title]: https://open.spotify.com/playlist/3LS6nPZA4PyDZl5tRnX34Q?si=e14a42ae367d4aed
-[spotify-title]: https://open.spotify.com/playlist/28Aww2201FbTgMgCPKMrP6?si=8df2151749094202
-[spotify-title]: https://open.spotify.com/playlist/5CbfFKXlLVFtikT0fDfOvI?si=cc0ca80ba6144db8
+[spotify-title2]: https://open.spotify.com/playlist/45ezE0U3ocTdfY4SdVkM4A?si=6a0049160ab74ad3
+[spotify-title3]: https://open.spotify.com/playlist/60L27xyFAfWwxJgq9B3ONR?si=a6d19b7828d44c45
+[spotify-title4]: https://open.spotify.com/playlist/3SKmxvV99uBvrMoU2J9VBu?si=59a9514bdd2541e3
+[spotify-title5]: https://open.spotify.com/playlist/0FchMhDpAMIMzj0Xi0xCzA?si=48cbb12b63d74828
+[spotify-title6]: https://open.spotify.com/playlist/3LS6nPZA4PyDZl5tRnX34Q?si=e14a42ae367d4aed
+[spotify-title7]: https://open.spotify.com/playlist/28Aww2201FbTgMgCPKMrP6?si=8df2151749094202
+[spotify-title8]: https://open.spotify.com/playlist/5CbfFKXlLVFtikT0fDfOvI?si=cc0ca80ba6144db8
 <!-- YouTube Links -->
 
 <!-- Badges -->
